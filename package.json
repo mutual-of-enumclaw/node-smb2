@@ -2,12 +2,9 @@
   "name": "@moe-tech/smb2",
   "description": "SMB2 Client",
   "homepage": "https://github.com/mutual-of-enumclaw/node-smb2",
-  "version": "0.2.11",
-  "engines": { 
-    "node": ">= 10.0.0" 
-  },
+  "version": "0.2.12",
   "author": {
-    "name": "Mutual of Enumclaw",
+    "name": "Nikody Keating",
     "email": "nkeating@mutualofenumclaw.com",
     "url": "https://github.com/nkeating-mutualofenumclaw"
   },

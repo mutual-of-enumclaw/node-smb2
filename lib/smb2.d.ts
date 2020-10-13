@@ -1,5 +1,6 @@
 
-class SMB2 {
+declare class SMB2 {
+    constructor(config);
     exists(path: string, callback: (error: string, exists: boolean) => void): void;
     rename(oldPath: string, newPath: string, callback: (error: string) => void): void;
     
